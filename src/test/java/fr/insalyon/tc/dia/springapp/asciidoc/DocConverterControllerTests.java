@@ -1,6 +1,5 @@
 package fr.insalyon.tc.dia.springapp.asciidoc;
 
-import fr.insalyon.tc.dia.springapp.DocConverterController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 

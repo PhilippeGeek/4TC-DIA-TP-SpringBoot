@@ -1,4 +1,4 @@
-package fr.insalyon.tc.dia.springapp;
+package fr.insalyon.tc.dia.springapp.asciidoc;
 
 import fr.insalyon.tc.dia.springapp.asciidoc.AsciidoctorService;
 import org.asciidoctor.Asciidoctor;
